@@ -49,10 +49,10 @@ body, html {
     position: absolute;
     top: 60%;
     left: 50%; 
-    transform: translate(-48%, -50%);
+    transform: translate(-50%, -50%);
     font-size: 20px; 
      background-color: rgba(126, 163, 207, 0.408);
-    padding: 10px; 
+    padding: 5px; 
     border-radius: 13px; 
     color: #004b85;
     font-family:'Roboto', Times, serif;
