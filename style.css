@@ -45,16 +45,19 @@ body, html {
     height: 100%;
     object-fit: cover;
 }
-
 .text {
     position: absolute;
-    bottom: 20px;
-    left: 20px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-    border-radius: 5px;
+    top: 60%;
+    left: 50%; 
+    transform: translate(-48%, -50%);
+    font-size: 20px; 
+     background-color: rgba(126, 163, 207, 0.408);
+    padding: 10px; 
+    border-radius: 13px; 
+    color: #004b85;
+    font-family:'Roboto', Times, serif;
 }
+
 
 .social-icons a {
     color: white;
