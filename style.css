@@ -7,7 +7,7 @@ body, html {
 
 @media (max-width: 768px) {
     body {
-        background-image: url('hic3.png');
+        background-image: url('hic3.jpg');
         margin: 0;
         padding: 0;
         width: 100%; 
@@ -21,7 +21,7 @@ body, html {
 
 @media (min-width: 769px) {
     body {
-        background-image: url('hic3.png');
+        background-image: url('hic3.jpg');
         margin: 0;
         padding: 0;
         width: 100%; 
