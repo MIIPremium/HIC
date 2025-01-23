@@ -7,10 +7,10 @@ body, html {
 
 @media (max-width: 768px) {
     body {
-        background-image: url('hic2.jpg');
+        background-image: url('hic1.jpg');
        background-attachment: fixed;
         background-size: cover;
-        background-size: contain; 
+       /* background-size: contain; */
         background-position: center; 
         background-repeat: no-repeat;
     }
